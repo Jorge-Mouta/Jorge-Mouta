@@ -1,4 +1,4 @@
-# Computer Science Project Application
+# Computer Science Project Application // Self-Taught Computer Science // ST-CS
 
 Mission
 
