@@ -40,3 +40,5 @@ Stack:
 - GraphQL.
 - React.
 - Redux Toolkit.
+- TypeScript.
+- Material-UI???
