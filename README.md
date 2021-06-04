@@ -31,4 +31,12 @@ Features:
 - Video Lectures followed by exercises followed by exams.
 - Math Editor.
 - Programming Editor: JavaScript, Python, C, maybe others... 
-- 
+
+Stack:
+- Next.js
+- MongoDB.
+- Express.
+- Prisma.
+- GraphQL.
+- React.
+- Redux Toolkit.
