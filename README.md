@@ -22,6 +22,9 @@ Proud Self-Taught Movment
 
 Address the "Imposter syndrome".
 
+Kickstarter:
+- "I believe in ST" Merch as milestone reward. 
+
 
 Features:
 - ID management(Keycloak).
