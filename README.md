@@ -47,3 +47,10 @@ Stack:
 - Redux Toolkit.
 - TypeScript.
 - Material-UI???
+
+
+Prototype(Must be done for the kickstart campaign):
+- Must have Math editor.
+- Must have the required code editors(JavaScript, C, C++, Assembly, others...).
+- Must have video presentation.
+- Must have ID management.
